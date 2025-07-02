@@ -1,0 +1,173 @@
+{
+  "categories": {
+    "drinks": {
+      "name": "☕ Coffee & Drinks",
+      "emoji": "☕",
+      "description": "Premium coffee drinks and refreshing beverages",
+      "items": [
+        {
+          "id": "espresso",
+          "name": "Classic Espresso",
+          "description": "Rich and bold single shot of our signature espresso blend",
+          "price": "$3.50",
+          "image": "https://pixabay.com/get/g25ba33ccc6fd2e9ec035bd10ed957656a96a0e70049c09756e2062be1ff9aa770ce8063dccad23bc68a127cde0b28596af076c74de52e0f88e450c4e0ccd70b8_1280.jpg",
+          "category": "drinks"
+        },
+        {
+          "id": "cappuccino",
+          "name": "Creamy Cappuccino",
+          "description": "Perfect balance of espresso, steamed milk, and velvety foam",
+          "price": "$4.25",
+          "image": "https://pixabay.com/get/gaf4c16b3c36ec8cec101b32c6a3882f937631965b8e7b37104fd03bfd6e88ad46878f02432a6270f73ede3c5265c1b24e449a7e03f304347f60b19c1b5b75460_1280.jpg",
+          "category": "drinks"
+        },
+        {
+          "id": "latte",
+          "name": "Smooth Latte",
+          "description": "Silky steamed milk with a shot of our finest espresso",
+          "price": "$4.50",
+          "image": "https://pixabay.com/get/g1d25ba7e52d62b9811b50112b2303cd8028aea4a782d6679fe69b05bbaf6534e5cc3dbfc35239b1a6782527d70c78a7e46fc4d1e41521b1369b72cd487d403bb_1280.jpg",
+          "category": "drinks"
+        },
+        {
+          "id": "mocha",
+          "name": "Chocolate Mocha",
+          "description": "Rich espresso with steamed milk and premium chocolate",
+          "price": "$4.75",
+          "image": "https://pixabay.com/get/g6071a0526935a4d33b35bfd4e4089c598e159a3ba0366566a7e60e9948519089c8e8c33d421381172003030de51edb279ae40684bb715cee6aec2c9106221e9a_1280.jpg",
+          "category": "drinks"
+        },
+        {
+          "id": "americano",
+          "name": "Classic Americano",
+          "description": "Smooth espresso with hot water for a clean, bold taste",
+          "price": "$3.75",
+          "image": "https://pixabay.com/get/gc5d15f5e643f17c71b31ffa672e9308fa08c09600ab1871b248c5fe84323eb2b206f702049227750af43eefc6c217529f8fac635469298a1180f4ef248feab4a_1280.jpg",
+          "category": "drinks"
+        },
+        {
+          "id": "cold_brew",
+          "name": "Cold Brew Coffee",
+          "description": "Smooth, refreshing cold-brewed coffee served over ice",
+          "price": "$4.00",
+          "image": "https://pixabay.com/get/g55cb82e8f2bcbc68f8857c8e2d2cb1daa1161454a98e166dd1f2a5b2a18114727604e7fb30b7dd852e14580bb9529e3803259e374c5fad831cf8dee90de22698_1280.jpg",
+          "category": "drinks"
+        }
+      ]
+    },
+    "food": {
+      "name": "🍽️ Food & Meals",
+      "emoji": "🍽️",
+      "description": "Delicious meals and hearty dishes",
+      "items": [
+        {
+          "id": "avocado_toast",
+          "name": "Artisan Avocado Toast",
+          "description": "Fresh avocado on sourdough with cherry tomatoes and herbs",
+          "price": "$8.50",
+          "image": "https://pixabay.com/get/g54f09af4b15060aed44b38a9a9b406b4dcf987ec3cb180b8cbf131907106566e8ba3e95099338df39c2d88bf3a00ea430b74601875640ec512cfbec1a95e62a4_1280.jpg",
+          "category": "food"
+        },
+        {
+          "id": "breakfast_bowl",
+          "name": "Power Breakfast Bowl",
+          "description": "Quinoa, fresh fruits, nuts, and honey drizzle",
+          "price": "$9.75",
+          "image": "https://pixabay.com/get/g35f74f28384cea15bcd3e7414d96399e0f92e2d9400d657290b30a0202f928f3752e07d9b24b7875670938a56a649ab0512423d8a5855d3802c20bde9a6c180c_1280.jpg",
+          "category": "food"
+        },
+        {
+          "id": "grilled_sandwich",
+          "name": "Gourmet Grilled Sandwich",
+          "description": "Turkey, Swiss cheese, and caramelized onions on artisan bread",
+          "price": "$10.25",
+          "image": "https://pixabay.com/get/g73ffcdd767c644df5774d611814eeb551cfefedbf37cdba40d5add0be8736128f7f6dfd48d964443589ec389b1c5b4545eb23fceda26e0b28c4b18e815a8fa18_1280.jpg",
+          "category": "food"
+        },
+        {
+          "id": "caesar_salad",
+          "name": "Classic Caesar Salad",
+          "description": "Crisp romaine, parmesan, croutons, and creamy caesar dressing",
+          "price": "$8.75",
+          "image": "https://pixabay.com/get/g572f914caa681be91fa1e902ef3b13ab4e4bb39de24b33a0d52c44105aa7b43c44b371b7afb6513a6800831c890f587e1b4f748a5f298c78750b807e47e5dfa3_1280.jpg",
+          "category": "food"
+        },
+        {
+          "id": "pasta_bowl",
+          "name": "Mediterranean Pasta",
+          "description": "Penne with sun-dried tomatoes, olives, and fresh basil",
+          "price": "$11.50",
+          "image": "https://pixabay.com/get/gcf1bcc02afeb98512062ef4f899565601ddbb0deb6f7c9462501f7f8489f3a298560999d7cb29f0ef1d285cedb9a7a3af076f69031a055bef01f69ac2dccb1e6_1280.png",
+          "category": "food"
+        },
+        {
+          "id": "soup_day",
+          "name": "Soup of the Day",
+          "description": "Ask about today's fresh, homemade soup selection",
+          "price": "$6.95",
+          "image": "https://pixabay.com/get/g30a5adaba1d5a99fc100e2a05bdaada723c8a5ecdb956cd987f97cdf1431c201579d381b5418f694bc0839f27a42d4c0fe9c0531d6491822404fe4192044a04d_1280.jpg",
+          "category": "food"
+        },
+        {
+          "id": "panini",
+          "name": "Chicken Pesto Panini",
+          "description": "Grilled chicken, pesto, mozzarella, and roasted peppers",
+          "price": "$9.95",
+          "image": "https://pixabay.com/get/gd8c4f5fc1567b997b86f9056470586b1baf82b938d2cad2418c91e4929b0c58b4a3f8a43feb9ea6a42d82f1f8e841cd19c1fce185d7b0b797c648035962b2415_1280.jpg",
+          "category": "food"
+        },
+        {
+          "id": "wrap",
+          "name": "Veggie Hummus Wrap",
+          "description": "Fresh vegetables, hummus, and greens in a spinach tortilla",
+          "price": "$8.25",
+          "image": "https://pixabay.com/get/gb1d9ed8ca2631e9ee9457e3ac8c93b232479f62c80621e00ef96509d245da697159ccac8690f2375fa2665c5c3a6f5aaf3f73d78f41de7043bc8d3edefe44b9b_1280.jpg",
+          "category": "food"
+        }
+      ]
+    },
+    "desserts": {
+      "name": "🧁 Pastries & Desserts",
+      "emoji": "🧁",
+      "description": "Sweet treats and freshly baked pastries",
+      "items": [
+        {
+          "id": "chocolate_cake",
+          "name": "Decadent Chocolate Cake",
+          "description": "Rich chocolate cake with velvety chocolate ganache",
+          "price": "$5.95",
+          "image": "https://pixabay.com/get/gf0064ceac475ba84194e74847cfe3a8e4dbc96c418f14a7e2f4e491217780a531ccde455dee544ddc4e02fe58bd2f86745a6fe3cb6697e7a0bde0a0d98b1312f_1280.jpg",
+          "category": "desserts"
+        },
+        {
+          "id": "croissant",
+          "name": "Buttery Croissant",
+          "description": "Flaky, buttery croissant baked fresh daily",
+          "price": "$3.25",
+          "image": "https://pixabay.com/get/g54554508163be8ef4d94045ea9ba55611b291c8e5a9d80810f1791efd53d6ebc20bebf402dbba16d747a7b445b3c1bca9901f63c26f27b7521fc4e0138e0a7b8_1280.jpg",
+          "category": "desserts"
+        },
+        {
+          "id": "cheesecake",
+          "name": "New York Cheesecake",
+          "description": "Creamy cheesecake with graham cracker crust and berry compote",
+          "price": "$6.50",
+          "image": "https://pixabay.com/get/g24b666d9bb8a079d4a37ce31317c2fb19139e9bc4087518b5b8a13b5825206b93e55c38bc284c9a9a3d1f4684f03bcb46fb3d8adabe083fa6220e39ba038dcb2_1280.jpg",
+          "category": "desserts"
+        },
+        {
+          "id": "muffin",
+          "name": "Blueberry Muffin",
+          "description": "Moist blueberry muffin with a golden, crumbly top",
+          "price": "$3.75",
+          "image": "https://pixabay.com/get/g1e6152b6fe2a6235d6db1a7a87528524c2b203e53669445ba08f0558575d98eeab38fb7c5dfe1528a381ff40f2864a2b87c89539d511436dcb440f45799bb5e3_1280.jpg",
+          "category": "desserts"
+        }
+      ]
+    }
+  },
+  "cafe_images": [
+    "https://pixabay.com/get/gb7193649ee1c1263ea997a2a222a0edf65dfa7e74295e7c04fd2811f255f2ef960d1b6a1bcb2bcd633fb0e349d698d0df2d6072ed59225f33ebbdb771861a9d9_1280.jpg",
+    "https://pixabay.com/get/gc34db7841a04ea5c037a24c2479fb72257bc6b37306a16d90c865a946eaba3243e6d58ff97b2d392f057b1353e85f0952ecf29edb842ee82eee3823fecd5469a_1280.jpg"
+  ]
+}
